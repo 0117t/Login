@@ -40,6 +40,8 @@ public class UserDao {
         } else {
             System.out.println("数据库为空!");
         }
+
+
         System.out.println("4444");
         //释放资源
         rs.close();
